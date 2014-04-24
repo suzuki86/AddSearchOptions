@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "name": "Add Search Options",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Googleの検索オプションに「3ヶ月以内」と「6ヶ月以内」を追加します。",
   "author": "Toshinari Suzuki",
