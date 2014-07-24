@@ -1,3 +1,7 @@
 # AddSearchOptions
 
-Googleの検索オプションに「3ヶ月以内」と「6ヶ月以内」を追加するGoogle Chromeの拡張機能です。
+Google Chrome Extension that adds "within 3 monthes" and "within 6 monthes" in Google search results page.
+
+## Installation
+
+This extension can be installed on [Chrome Webstore](https://chrome.google.com/webstore/detail/quicktabswitch/pnelkdgjfmmkcogamkjkcajgdkomjgco?hl=ja&gl=JP)
