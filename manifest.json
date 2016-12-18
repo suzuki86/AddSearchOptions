@@ -1,6 +1,5 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
+  "update_url": "https://clients2.google.com/service/update2/crx",
   "name": "Add Search Options",
   "version": "0.0.2",
   "manifest_version": 2,
