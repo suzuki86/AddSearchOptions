@@ -13,7 +13,7 @@
     "128": "images/128.png"
   },
   "content_scripts": [{
-    "matches": ["*://www.google.com/*", "*://www.google.co.jp/*"],
+    "matches": ["*://www.google.com/*", "*://www.google.co.jp/*", "*://www.google.co.uk/*"],
     "run_at": "document_end",
     "js": ["script.js"],
     "all_frames": true
