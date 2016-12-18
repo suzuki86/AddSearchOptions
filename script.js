@@ -1,4 +1,4 @@
-window.onload = function(){
+window.addEventListener('load', function(){
   var googleLanguage = getGoogleLanguage();
   var hyphenPosition = googleLanguage.indexOf('-');
   var localeCode = (hyphenPosition >= 0) ? googleLanguage.substr(0, hyphenPosition) : googleLanguage;
@@ -12,7 +12,7 @@ window.onload = function(){
   });
   var options = { subtree: true, childList: true, characterData: true }
   observer.observe(document.body, options);
-}
+});
 
 function getMessage(keyword, language){
   messages = {
