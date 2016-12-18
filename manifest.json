@@ -2,11 +2,12 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "name": "Add Search Options",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
-  "description": "Googleの検索オプションに「3ヶ月以内」と「6ヶ月以内」を追加します。",
+  "description": "__MSG_description__",
   "author": "Toshinari Suzuki",
   "homepage_url": "http://suzuki.toshinari.jp",
+  "default_locale": "en",
   "icons": {
     "16": "images/16.png",
     "48": "images/48.png",
