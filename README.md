@@ -1,6 +1,6 @@
 # AddSearchOptions
 
-Google Chrome Extension that adds "Past 3 months" and "Past 6 months" in Google search results page.
+Google Chrome Extension that adds "Past 3 months" and "Past 6 months" as search option in Google search results page.
 
 ![AddSearchOptions](https://raw.githubusercontent.com/suzuki86/AddSearchOptions/assets/images/add-search-options.png)
 
